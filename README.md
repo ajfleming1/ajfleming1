@@ -5,7 +5,7 @@
 - <img src="https://i.imgur.com/hn0TLXg.png" alt=".NET" />
 
 💙 I'm currenly loving
-- <img src="https://i.imgur.com/4eJmb4R.png" alt=".NET" />
+- <img src="https://i.imgur.com/4eJmb4R.png" alt="TypeScript" />
 
 🌱 I’m currently learning 
 - <img src="https://i.imgur.com/kFRAKdW.png" alt="GraphQL"/>
