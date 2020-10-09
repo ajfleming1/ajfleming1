@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning <img src="https://i.imgur.com/9RB6nT9.png" alt="GraphQL"/>
 <!--
 **ajfleming1/ajfleming1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
