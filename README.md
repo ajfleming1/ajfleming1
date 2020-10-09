@@ -1,4 +1,7 @@
 ### Hi there 👋
+🤘 I'm currently working with
+- <img src="https://i.imgur.com/hn0TLXg.png" alt=".NET" />
+
 🌱 I’m currently learning 
 - <img src="https://i.imgur.com/kFRAKdW.png" alt="GraphQL"/>
 - <img src="https://i.imgur.com/uO2JsiV.png" alt="Rust"/>
