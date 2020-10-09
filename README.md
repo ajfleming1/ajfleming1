@@ -4,7 +4,7 @@
 🤘 I'm currently working with
 - <img src="https://i.imgur.com/hn0TLXg.png" alt=".NET" />
 
-💙 I'm currenly loving
+💙 I'm currently exploring
 - <img src="https://i.imgur.com/4eJmb4R.png" alt="TypeScript" />
 
 🌱 I’m currently learning 
