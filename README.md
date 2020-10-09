@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning <img src="https://i.imgur.com/kFRAKdW.png" alt="GraphQL"/>
+🌱 I’m currently learning 
+- <img src="https://i.imgur.com/kFRAKdW.png" alt="GraphQL"/>
+- <img src="https://i.imgur.com/uO2JsiV.png" alt="Rust"/>
 <!--
 **ajfleming1/ajfleming1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
